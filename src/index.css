@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* .g{
+    display: flex;
+    justify-content: ;
+} */
+@font-face {
+    font-family: "Custom-1";
+    src: url("../Font/FoundersGroteskXCond-Bold.otf");
+}
+@font-face {
+    font-family: "Custom-2";
+    src: url("../Font/FoundersGroteskXCond-Lt.otf");
+}
+@font-face {
+    font-family: "Custom-3";
+    src: url("../Font/FoundersGrotesk-Regular.otf");
+}
